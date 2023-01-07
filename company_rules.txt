@@ -1,0 +1,10 @@
+COMPANY RULES
+
+These are our company rules
+
+1. Be kind
+2. Be excellent to each other
+3. Have fun
+4. Always commit to git in case of emergency
+
+Goodluck
